@@ -4,7 +4,11 @@
 <p align="left">📚 Constantly learning new tools and enhancing my knowledge of data structures.<br>🎯 Goals: Dive into data science fundamentals and build innovative full-stack projects.<br>🎲 Fun fact: Coding without tea is like a body without a soul!</p>
 <h2 align="left">Tech Stack I Use</h2>
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet core logo" /> <img width="12" /><img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40" alt="django logo" /> <img width="12" /> 
-<img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  height="40" alt="django logo" /> <img width="12" /></div>
+<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  height="40" alt="sql logo" /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  height="40" alt="TS logo" /> <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  height="40" alt="JS logo" /> <img width="12" />
+</div>
 <h2 align="left">Projects and Achievements</h2>
 🌟 Recently completed full-stack applications with Django and Vue.js.
 🔍 Exploring advanced algorithms and data structures to strengthen my problem-solving skills.
