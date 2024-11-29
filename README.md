@@ -9,6 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  height="40" alt="TS logo" /> <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  height="40" alt="JS logo" /> <img width="12" />
 </div>
+
 <h2 align="left">Projects and Achievements</h2>
 🌟 Recently completed full-stack applications with Django and Vue.js.
 🔍 Exploring advanced algorithms and data structures to strengthen my problem-solving skills.
