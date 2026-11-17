@@ -60,9 +60,9 @@ I enjoy taking an idea from concept to implementation, learning along the way, a
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=aabhay007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+<!--- <img src="https://github-stats-extended.vercel.app/api?username=aabhay007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />  --->
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aabhay007&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aabhay007&theme=tokyonight&hide_border=true" /><br/>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aabhay007&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" />
 
